@@ -10,6 +10,6 @@ kajus.misevicius@stud.vilniustech.lt
 
 | Projektas | Aprašymas | Technologijos |
 |---|---|---|
-| [🔗 Erasmus ML projektas](#) | [Trumpas aprašymas] | Python, Pandas, sklearn |
-| [🔗 Laboratorinis darbas](#) | [Trumpas aprašymas] | Python / MATLAB |
-| [🔗 Asmeninis projektas](#) | [Trumpas aprašymas] | [Technologijos] |
+| [Erasmus ML projektas](#) | [Trumpas aprašymas] | Python, Pandas, sklearn |
+| [Laboratorinis darbas](#) | [Trumpas aprašymas] | Python / MATLAB |
+| [Asmeninis projektas](#) | [Trumpas aprašymas] | [Technologijos] |
