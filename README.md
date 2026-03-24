@@ -1,4 +1,4 @@
-# Sveiki, aš Kajus Misevičius 👋
+# Sveiki, aš esu Kajus Misevičius
 
 Dirbtinio intelekto sistemų studentas, VILNIUS TECH (3 kursas)  
 Erasmus alumni — University of Aveiro, Portugalija  
