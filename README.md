@@ -6,10 +6,9 @@ Erasmus alumni — University of Aveiro, Portugalija
 kajus.misevicius@stud.vilniustech.lt
 ---
 
-## 📁 Projektai
+## 📁 Mano projektai
 
 | Projektas | Aprašymas | Technologijos |
-|---|---|---|
-| [Erasmus ML projektas](#) | [Trumpas aprašymas] | Python, Pandas, sklearn |
-| [Laboratorinis darbas](#) | [Trumpas aprašymas] | Python / MATLAB |
-| [Asmeninis projektas](#) | [Trumpas aprašymas] | [Technologijos] |
+|-----------|-----------|---------------|
+| [🤟 ASL Sign Recognition](https://github.com/Kajus130237/asl-sign-recognition) | Realaus laiko gestų abėcėlės atpažinimas | Python, SVM, MediaPipe, OpenCV |
+| [🔗 Kitas projektas](https://github.com/JUSU_USERNAME/kitas-repo) | Aprašymas | Technologijos |
