@@ -10,5 +10,5 @@ kajus.misevicius@stud.vilniustech.lt
 
 | Projektas | Aprašymas | Technologijos |
 |-----------|-----------|---------------|
-| [🤟 ASL Real-time (SVM)](https://github.com/USERNAME/asl-sign-recognition) | Realaus laiko gestų atpažinimas | Python, SVM, MediaPipe |
-| [🧠 ASL CNN Classification](https://github.com/USERNAME/asl-cnn-classification) | Mokslinė CNN klasifikacija, 92% tikslumas | Python, TensorFlow, Keras |
+| [🤟 ASL Real-time (SVM)](https://github.com/Kajus130237/asl-sign-recognition) | Realaus laiko gestų atpažinimas | Python, SVM, MediaPipe |
+| [🧠 ASL CNN Classification](https://github.com/Kajus130237/asl-cnn-classification) | Mokslinė CNN klasifikacija, 92% tikslumas | Python, TensorFlow, Keras |
