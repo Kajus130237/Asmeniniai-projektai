@@ -15,3 +15,6 @@ kajus.misevicius@stud.vilniustech.lt
 | [🍀 Green for All LT : Urban Equity Index for Vilnius](https://github.com/Kajus130237/green-for-all) | Žaliujų erdvių analizė Vilniuje | Python, Jupyter |
 | [👾 Autonomous bot for retro game "Centipede"](https://github.com/Kajus130237/centipede) | Automatinio boto kodas Centipede žaidimui | Python |
 | [💣 Minesweeper](https://github.com/Kajuksa/Minesweeper) | Klasikinis žaidimas su GUI | Python, Tkinter |
+| [🎬 Movie Genre Prediction with Hidden Markov Models](https://github.com/Kajuksa/movie-genre-hmm) | Kino žanrų prognozavimas naudojant Markovo grandines | Python, NLTK, pandas |
+
+
