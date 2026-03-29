@@ -16,5 +16,6 @@ kajus.misevicius@stud.vilniustech.lt
 | [👾 Centipede Bot](https://github.com/Kajus130237/centipede) | Autonomous agent playing the retro arcade game | Python |
 | [💣 Minesweeper](https://github.com/Kajuksa/Minesweeper) | Classic Minesweeper with a graphical interface | Python, Tkinter |
 | [🎬 Movie Genre HMM](https://github.com/Kajuksa/movie-genre-hmm) | Next-genre prediction from watch history using HMM | Python, NLTK, pandas |
+| [🍷 Wine Quality Analysis](https://github.com/Kajuksa/wine-pca-som) | Dimensionality reduction & clustering on wine data | Python, PCA, SOM, UMAP |
 
 
