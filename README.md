@@ -8,13 +8,13 @@ kajus.misevicius@stud.vilniustech.lt
 
 ## 📁 Mano projektai
 
-| Projektas | Aprašymas | Technologijos |
-|-----------|-----------|---------------|
-| [🤟 ASL Real-time (SVM)](https://github.com/Kajus130237/asl-sign-recognition) | Realaus laiko gestų atpažinimas | Python, SVM, MediaPipe |
-| [🧠 ASL CNN Classification](https://github.com/Kajus130237/asl-cnn-classification) | Mokslinė CNN klasifikacija, 92% tikslumas | Python, TensorFlow, Keras |
-| [🍀 Green for All LT : Urban Equity Index for Vilnius](https://github.com/Kajus130237/green-for-all) | Žaliujų erdvių analizė Vilniuje | Python, Jupyter |
-| [👾 Autonomous bot for retro game "Centipede"](https://github.com/Kajus130237/centipede) | Automatinio boto kodas Centipede žaidimui | Python |
-| [💣 Minesweeper](https://github.com/Kajuksa/Minesweeper) | Klasikinis žaidimas su GUI | Python, Tkinter |
-| [🎬 Movie Genre Prediction with Hidden Markov Models](https://github.com/Kajuksa/movie-genre-hmm) | Kino žanrų prognozavimas naudojant Markovo grandines | Python, NLTK, pandas |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🤟 ASL Real-time (SVM)](https://github.com/Kajus130237/asl-sign-recognition) | Real-time hand gesture recognition via webcam | Python, SVM, MediaPipe |
+| [🧠 ASL CNN Classification](https://github.com/Kajus130237/asl-cnn-classification) | CNN-based sign language classification, 92% accuracy | Python, TensorFlow, Keras |
+| [🍀 Green for All LT](https://github.com/Kajus130237/green-for-all) | Urban green space equity analysis for Vilnius | Python, Jupyter |
+| [👾 Centipede Bot](https://github.com/Kajus130237/centipede) | Autonomous agent playing the retro arcade game | Python |
+| [💣 Minesweeper](https://github.com/Kajuksa/Minesweeper) | Classic Minesweeper with a graphical interface | Python, Tkinter |
+| [🎬 Movie Genre HMM](https://github.com/Kajuksa/movie-genre-hmm) | Next-genre prediction from watch history using HMM | Python, NLTK, pandas |
 
 
