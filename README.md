@@ -18,5 +18,6 @@ kajus.misevicius@stud.vilniustech.lt
 | [🎬 Movie Genre HMM](https://github.com/Kajuksa/movie-genre-hmm) | Next-genre prediction from watch history using HMM | Python, NLTK, pandas |
 | [🍷 Wine Quality Analysis](https://github.com/Kajuksa/wine-pca-som) | Dimensionality reduction & clustering on wine data | Python, PCA, SOM, UMAP |
 | 🃏 [Poker Hand Solver](https://github.com/Kajuksa/poker-hand-solver) | Texas Hold'em hand analysis via Docker microservices | Python, Flask, Docker, Monte Carlo |
+| 🃏 [Kroku](https://github.com/Kajuksa/kroku/tree/main/kroku-web) | Collaborative future-focused finance planning and tracking app | React 18, Vite 6, Supabase, TypeScript 5 |
 
 
